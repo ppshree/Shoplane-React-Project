@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0bb3afd.chunk.css",
+    "main.js": "/static/js/main.95d490d9.chunk.js",
+    "main.js.map": "/static/js/main.95d490d9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2203c391.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2203c391.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.97c1f52b.chunk.js": "/static/js/2.97c1f52b.chunk.js",
+    "static/js/2.97c1f52b.chunk.js.map": "/static/js/2.97c1f52b.chunk.js.map",
+    "static/js/3.8b30c50a.chunk.js": "/static/js/3.8b30c50a.chunk.js",
+    "static/js/3.8b30c50a.chunk.js.map": "/static/js/3.8b30c50a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.d0bb3afd.chunk.css.map": "/static/css/main.d0bb3afd.chunk.css.map",
+    "static/js/2.97c1f52b.chunk.js.LICENSE.txt": "/static/js/2.97c1f52b.chunk.js.LICENSE.txt",
+    "static/media/edyoda-logo.88de1bb2.png": "/static/media/edyoda-logo.88de1bb2.png",
+    "static/media/img1.9007d84c.png": "/static/media/img1.9007d84c.png",
+    "static/media/img2.88dc38c8.png": "/static/media/img2.88dc38c8.png",
+    "static/media/img3.d28aba27.png": "/static/media/img3.d28aba27.png",
+    "static/media/img4.c2ca730c.png": "/static/media/img4.c2ca730c.png",
+    "static/media/profile-pic.23367a1c.png": "/static/media/profile-pic.23367a1c.png",
+    "static/media/white-tick.5177609a.png": "/static/media/white-tick.5177609a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2203c391.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.97c1f52b.chunk.js",
+    "static/css/main.d0bb3afd.chunk.css",
+    "static/js/main.95d490d9.chunk.js"
+  ]
+}
