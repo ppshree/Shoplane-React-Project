@@ -1,0 +1,64 @@
+.thankyouPageWrapper {
+  margin-top: 70px;
+  padding: 5% 5%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tickWrapper {
+  width: 150px;
+  height: 150px;
+  padding: 30px;
+  background-color: #49d049;
+  border-radius: 50%;
+  box-sizing: border-box;
+  animation: popup 1s;
+}
+.tickWrapper img {
+  width: 100%;
+}
+
+@keyframes popup {
+  0% {
+    transform: scale(0);
+  }
+
+  60% {
+    transform: scale(1.25, 1.25);
+  }
+
+  100% {
+    transform: scale(1, 1);
+  }
+}
+.mainpageHeadingWrapper {
+  text-align: center;
+  padding: 0 20px;
+}
+
+.mainpageHeadingWrapper h1 {
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 600;
+  margin: 0;
+  margin-bottom: 16px;
+  font-size: 28px;
+  margin-top: 40px;
+}
+.mainpageHeadingWrapper p {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+@media (min-width: 770px) {
+  .tickWrapper {
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+  }
+}
